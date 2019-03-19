@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Job Runner</string>
+
+    //FOR INTRO SCREEN
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="done">DONE</string>
+    <string name="screen1_title">Create your job</string>
+    <string name="screen1_desc">Create your part time job for everyone.</string>
+    <string name="screen2_title">Choose candidate</string>
+    <string name="screen2_desc">Choose your candidate based on our filter.</string>
+    <string name="screen3_title">Start working</string>
+    <string name="screen3_desc">The choosen candidate can start working.</string>
+
+</resources>

@@ -106,6 +106,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         textView_register.setOnClickListener(this);
     }
 
+    //function
     @Override
     protected void onResume() {
         super.onResume();
